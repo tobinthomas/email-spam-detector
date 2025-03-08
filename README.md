@@ -1,13 +1,16 @@
-# Email Spam Detector 🚀
+#  Email Spam Detector 
 
-This is a **machine learning-based spam detection system** using Python and Tkinter.
+This is a **machine learning-based email spam detector** built using **Streamlit**.
 
-## Features
+##  Live Web App
+ **[Try the Email Spam Detector](https://email-spam-detector-tobin.streamlit.app/)**  
+
+##  Features
  Detects spam emails using NLP  
- GUI with Tkinter  
- Uses RandomForest for classification  
+ Uses `RandomForestClassifier` for classification  
+ Streamlit web-based interface  
 
-## Installation
+## 🔧 How to Run Locally
 1. Clone the repository:
    ```bash
    git clone https://github.com/tobinthomas/email-spam-detector.git
